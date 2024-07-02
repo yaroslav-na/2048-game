@@ -1,4 +1,15 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# 2048 Game
+
+## Description
+
+JavaScript implementation of the 2048 game. The player controls cell movements using keyboard arrows.
+
+## Related Links
+
+- [DEMO LINK](https://yaroslav-na.github.io/2048-game/)
+
+## Launch Instructions
+
+1. Download the codebase.
+1. Run `npm install` to install dependencies.
+1. Execute `npm start` to start the development server.
